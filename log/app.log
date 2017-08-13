@@ -1,0 +1,38 @@
+2017-08-14 04:03:08 INFO  BaseTest:55 - In BaseTest() constructor
+2017-08-14 04:03:08 INFO  BaseTest:130 - Instantiating JSON Object for .json files
+2017-08-14 04:03:08 INFO  BaseTest:78 - Initializing test data from BaseTest.json file
+2017-08-14 04:03:08 INFO  BaseTest:32 - In Test1() constructor
+2017-08-14 04:03:08 INFO  BaseTest:130 - Instantiating JSON Object for .json files
+2017-08-14 04:03:08 INFO  BaseTest:44 - Initializing test data from Test1.json file
+2017-08-14 04:03:08 INFO  BaseTest:92 - Instantiating android driver
+2017-08-14 04:03:46 INFO  BaseTest:56 - ----------TEST CASE: Verifying user is able to successfully complete user flow
+2017-08-14 04:03:46 INFO  AbstractPage:35 - In Abstract Page Constructor
+2017-08-14 04:03:46 INFO  AbstractPage:68 - In Test page constructor
+2017-08-14 04:03:46 INFO  AbstractPage:75 - Clicking Get Started Button
+2017-08-14 04:03:46 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:03:47 INFO  AbstractPage:86 - Clicking Enable Location Button
+2017-08-14 04:03:47 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:03:48 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:03:49 INFO  AbstractPage:98 - Entering Region
+2017-08-14 04:03:49 INFO  AbstractPage:61 - Entering the input in the field
+2017-08-14 04:04:02 INFO  AbstractPage:109 - Clicking first option for Region
+2017-08-14 04:04:02 INFO  AbstractPage:102 - Clicking on the element with index: 1
+2017-08-14 04:04:03 INFO  AbstractPage:120 - Clicking Search Service Field
+2017-08-14 04:04:03 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:04:06 INFO  AbstractPage:131 - Entering in Search Field
+2017-08-14 04:04:06 INFO  AbstractPage:61 - Entering the input in the field
+2017-08-14 04:04:20 INFO  AbstractPage:142 - Clicking Plumber option from search results
+2017-08-14 04:04:20 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:04:21 INFO  AbstractPage:153 - Clicking Schedule Your Services Button
+2017-08-14 04:04:21 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:04:23 INFO  AbstractPage:164 - Clicking add address Button
+2017-08-14 04:04:23 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:04:24 INFO  AbstractPage:175 - Entering address
+2017-08-14 04:04:24 INFO  AbstractPage:61 - Entering the input in the field
+2017-08-14 04:04:42 INFO  AbstractPage:61 - Entering the input in the field
+2017-08-14 04:04:55 INFO  AbstractPage:61 - Entering the input in the field
+2017-08-14 04:05:09 INFO  AbstractPage:188 - Clicking save Button
+2017-08-14 04:05:09 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:05:10 INFO  AbstractPage:199 - Clicking Next Button
+2017-08-14 04:05:10 INFO  AbstractPage:80 - Clicking on the element
+2017-08-14 04:05:15 INFO  BaseTest:115 - Quitting driver

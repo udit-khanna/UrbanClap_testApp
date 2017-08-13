@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ALL Suite]">
+  <test name="NativeApp Test(failed)">
+    <classes>
+      <class name="com.project.UrbanClap.tests.Test1">
+        <methods>
+          <include name="tearDown"/>
+          <include name="loadLoginPage"/>
+          <include name="successfulUserFlow"/>
+        </methods>
+      </class> <!-- com.project.UrbanClap.tests.Test1 -->
+    </classes>
+  </test> <!-- NativeApp Test(failed) -->
+</suite> <!-- Failed suite [ALL Suite] -->

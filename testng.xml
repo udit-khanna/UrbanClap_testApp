@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ALL Suite">
+	<test name="NativeApp Test">
+		<classes>
+			<class name="com.project.UrbanClap.tests.Test1">
+			</class>
+		</classes>
+	</test>
+</suite>
+
+
